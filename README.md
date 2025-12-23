@@ -2,7 +2,7 @@
 
 这是我的个人博客仓库，对应站点地址：
 
-👉 https://你的用户名.github.io
+👉 https://Greninja933.github.io
 
 ---
 
@@ -10,7 +10,7 @@
 
 陈浩然  
 中国浙江台州人  
-UW–Madison 理论与计算化学博士生
+UW–Madison 理论与计算化学博士生在读
 
 ---
 
