@@ -24,14 +24,6 @@ UW–Madison 理论与计算化学博士生在读
 
 ---
 
-## 博客结构
-
-- `_posts/`：博客文章（Markdown）
-- `assets/`：图片与资源文件
-- `_config.yml`：Jekyll 配置文件
-
----
-
 ## 技术说明
 
 - 使用 GitHub Pages + Jekyll 构建
